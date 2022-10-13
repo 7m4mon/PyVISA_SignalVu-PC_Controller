@@ -2,13 +2,13 @@
 
 'PyVISA_SignalVu-PC Controller' adds a Virtual Numeric Keypad Controoler for Tektronix SignalVu-PC.
 
-[image]
+![](https://github.com/7m4mon/PyVISA_SignalVu-PC_Controller/blob/main/PyVISA_SignalVu-PC_Controller_sc.png)  
 
 ---
 **SignalVu-PC application has a Numeric Keypad !**  
 **Check its Toolbar menu, 'View' -> 'Numeric Keypad'**
 
-[image]
+![](https://github.com/7m4mon/PyVISA_SignalVu-PC_Controller/blob/main/signalvu-numpad.png)  
 
 ---
 
@@ -16,10 +16,10 @@
 1. Get the VISA Address of SignalVu-PC application.  
 - SignalVu-PC application has a virtual GPIB Addres.
 You can check it by "Open Choice Instrument Manager".  
-[Image]
+![](https://github.com/7m4mon/PyVISA_SignalVu-PC_Controller/blob/main/signalvu-address.png)  
 - You can also use by Socket Server.
 It will enabled by "TekVISA LAN Server Control"  
-[Image]
+![](https://github.com/7m4mon/PyVISA_SignalVu-PC_Controller/blob/main/start_socketserver.png)  
 2. Enter SignalVu's VISA address to Textbox.
 3. Press "*IDN?" button to open instrument.
 4. Press a button of left row and enter number, then press button of right row.
