@@ -25,4 +25,4 @@ It will be enabled by "TekVISA LAN Server Control"
 
 ---
 
-This program was used libraries, PySimpleGUI(LGPL) and PyVISA(MIT).
+This program is using libraries, PySimpleGUI(LGPL) and PyVISA(MIT).
